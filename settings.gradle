@@ -1,0 +1,2 @@
+include ':fmpermission'
+rootProject.name = "FmPermission"
